@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Custom Sidebar Component
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This projects shows how to create a Custom Sidebar using a React Component and `useRef` and `forwardRef` hooks.
 
 ## Available Scripts
 
