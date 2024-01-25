@@ -10,7 +10,15 @@ In the project directory, you can run:
 
 Installs the dependencies
 
+### `Copy PSPDFKit Assets to Public Directory`
+
+```
+cp -R ./node_modules/pspdfkit/dist/pspdfkit-lib public/pspdfkit-lib
+```
+
 ### `npm start`
 
 Runs the project locally
+
+
 
